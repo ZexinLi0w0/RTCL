@@ -135,3 +135,16 @@ python test_all_features.py
 [Torchvision for Jetson](https://zexinli.prof/post/5c1d.html)
 
 [Deepspeed end2end FLOPs profiler](https://www.deepspeed.ai/tutorials/flops-profiler/)
+
+# Citation
+
+If you use this implementation, please cite our paper:
+
+```bibtex
+@inproceedings{li2026realtime,
+  author    = {Zexin Li and Dongjoo Seo and Nikil Dutt and Jun Sheng and Cong Liu},
+  title     = {Real-Time Continual Learning on Embedded {GPUs}},
+  booktitle = {2026 IEEE Real-Time Systems Symposium (RTSS)},
+  year      = {2026}
+}
+```
